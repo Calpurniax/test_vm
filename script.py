@@ -1,1 +1,1 @@
-ni idea
+print("Hello world!")
